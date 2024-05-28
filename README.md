@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![Uploading Screenshot_71.png…]()
+![Screenshot_71](https://github.com/rifathasanpriyo/Flutter_Profile_UI/assets/137903375/16c7423f-e09c-4837-a778-ea1f54ad02a6)
 
 This project is a starting point for a Flutter application.
 
